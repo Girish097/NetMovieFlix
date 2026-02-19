@@ -13,17 +13,6 @@ A modern Netflix-style web application built with React, TypeScript, and Tailwin
 
 ## 🛠️ Tech Stack
 
-- **React 19** - UI library
-- **TypeScript** - Type safety
-- **Vite** - Build tool and dev server
-- **TailwindCSS** - Utility-first CSS framework
-- **React Router** - Client-side routing
-- **Axios** - HTTP client for API calls
-- **Context API** - State management for authentication
-- **LocalStorage** - Session persistence
-
-## 📁 Project Structure
-
 ```
 src/
 ├── app/                    # App-level configuration
